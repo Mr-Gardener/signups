@@ -1,0 +1,18 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* :root {
+    --bg: black;
+    --primary: #E68369;
+    --primary-hover: #da6042;
+    --error: #e5484d;
+} */
+
+body {
+    display: grid;
+    place-items: center;
+}
